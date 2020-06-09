@@ -1,6 +1,7 @@
 # Plan Of Action
 
 - Import Google Maps into the Window
+Get Google Maps API
 
 - Add the header `Store Locator` 
 
@@ -14,7 +15,7 @@
 
 - Add individual store container
 
-- Show all the stores in the stores list using `store-data.js`
+- Show all the stores in the stores list using `store-data.js` predefined data
 
 - Open the info window of the marker on store selection in stores list 
 
