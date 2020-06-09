@@ -2,6 +2,8 @@
 
 - Import Google Maps into the Window
 Get Google Maps API
+ADD MAPS API IN INDEX.HTML 
+
 
 - Add the header `Store Locator` 
 
